@@ -1,6 +1,6 @@
-# 🖥️ HỆ THỐNG BÁN LINH KIỆN MÁY TÍNH THÔNG MINH TÍCH HỢP AI & QR
+#  HỆ THỐNG BÁN LINH KIỆN MÁY TÍNH THÔNG MINH TÍCH HỢP AI & QR
 
-## 📌 1. Giới thiệu đề tài
+## 1. Giới thiệu đề tài
 
 Trong bối cảnh nhu cầu mua sắm linh kiện máy tính ngày càng tăng, người dùng thường gặp khó khăn trong việc lựa chọn sản phẩm phù hợp với nhu cầu và ngân sách.
 
@@ -11,20 +11,16 @@ Trong bối cảnh nhu cầu mua sắm linh kiện máy tính ngày càng tăng,
 * Tương tác với chatbot thông minh
 * Thanh toán và quản lý đơn hàng tiện lợi thông qua QR
 
----
-
-## 🎯 2. Mục tiêu đề tài
+## 2. Mục tiêu đề tài
 
 * Xây dựng website thương mại điện tử hoàn chỉnh
 * Tích hợp AI để nâng cao trải nghiệm người dùng
 * Ứng dụng QR vào quản lý và thanh toán
 * Thiết kế hệ thống theo kiến trúc rõ ràng, dễ mở rộng
 
----
+## 3. Chức năng chính
 
-## 🧠 3. Chức năng chính
-
-### 🛒 3.1. Hệ thống bán hàng
+### 3.1. Hệ thống bán hàng
 
 * Đăng ký / đăng nhập người dùng
 * Xem danh sách sản phẩm (RAM, GPU, màn hình, phụ kiện...)
@@ -32,17 +28,13 @@ Trong bối cảnh nhu cầu mua sắm linh kiện máy tính ngày càng tăng,
 * Thêm vào giỏ hàng
 * Đặt hàng và theo dõi đơn hàng
 
----
-
-### 🤖 3.2. Chatbot AI hỗ trợ khách hàng
+### 3.2. Chatbot AI hỗ trợ khách hàng
 
 * Tư vấn sản phẩm theo nhu cầu người dùng
 * Trả lời câu hỏi liên quan đến linh kiện
 * Gợi ý sản phẩm phù hợp
 
----
-
-### 🧠 3.3. AI gợi ý cấu hình máy tính
+###  3.3. AI gợi ý cấu hình máy tính
 
 Người dùng nhập:
 
@@ -56,7 +48,7 @@ Hệ thống sẽ:
 
 ---
 
-### 📊 3.4. So sánh sản phẩm
+### 3.4. So sánh sản phẩm
 
 * So sánh nhiều sản phẩm theo:
 
@@ -66,24 +58,20 @@ Hệ thống sẽ:
 
 ---
 
-### 📱 3.5. Tích hợp QR
+### 3.5. Tích hợp QR
 
 * QR sản phẩm: truy cập nhanh thông tin
 * QR đơn hàng: xác nhận giao hàng
 * QR thanh toán: hỗ trợ thanh toán nhanh
 
----
-
-### 📈 3.6. Trang quản trị (Admin)
+### 3.6. Trang quản trị (Admin)
 
 * Quản lý sản phẩm
 * Quản lý đơn hàng
 * Thống kê doanh thu
 * Theo dõi hành vi người dùng
 
----
-
-## ⚙️ 4. Công nghệ sử dụng
+## 4. Công nghệ sử dụng
 
 ### Backend
 
@@ -108,9 +96,7 @@ Hệ thống sẽ:
 * QR Code Generator
 * JWT Authentication
 
----
-
-## 🏗️ 5. Kiến trúc hệ thống
+## 5. Kiến trúc hệ thống
 
 Hệ thống được xây dựng theo mô hình 3-tier:
 
@@ -125,9 +111,7 @@ Luồng hoạt động:
 3. Nếu cần AI → gọi API từ service Python
 4. Trả kết quả về frontend hiển thị
 
----
-
-## 👨‍💻 6. Phân công công việc
+## 6. Phân công công việc
 
 ### Thành viên 1
 
@@ -146,28 +130,22 @@ Luồng hoạt động:
   * Chatbot
   * Gợi ý cấu hình PC
 
----
 
-## 💯 7. Điểm nổi bật của hệ thống
+## 7. Điểm nổi bật của hệ thống
 
 * Tích hợp AI thực tế (không chỉ mang tính minh họa)
 * Ứng dụng QR vào nhiều chức năng
 * Hỗ trợ người dùng lựa chọn linh kiện thông minh
 * Kiến trúc rõ ràng, dễ mở rộng
 
----
-
-## 🚀 8. Hướng phát triển
+## 8. Hướng phát triển
 
 * Tích hợp thanh toán online (VNPay, Momo)
 * Cải thiện AI với dữ liệu lớn hơn
 * Xây dựng mobile app
 * Tối ưu hệ thống gợi ý bằng Machine Learning
 
----
 
-## 📌 9. Kết luận
+## 9. Kết luận
 
 Đề tài hướng đến việc xây dựng một hệ thống thương mại điện tử thông minh, không chỉ phục vụ nhu cầu mua sắm mà còn hỗ trợ người dùng ra quyết định thông qua AI, góp phần nâng cao trải nghiệm và hiệu quả sử dụng.
-
----
